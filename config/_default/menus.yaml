@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 07d0fec1-7f84-d7e0-34c4-dabccd1b5a02
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: c88cb40f-fffd-4c20-c361-c1647b887b4e
+  name: Class Topics
+  pageRef: /pages/class-topics
+  weight: 20
+- identifier: 0daf4987-1459-8983-aa85-5689f242c83b
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 588b48d5-a339-0347-e6e5-b16b0ec1fe7b
+  name: Class Activities
+  pageRef: /pages/class-activities
+  weight: 40
+- identifier: 5b67d4a8-cb63-9758-8148-2c1bb40692c8
+  name: Experiments
+  pageRef: /pages/experiments
+  weight: 50
+- identifier: ad9d1a7e-98d0-b1ff-318d-13ddbf7639b1
+  name: Problem Solving
+  pageRef: /pages/problem-solving
+  weight: 60
+- identifier: 6aee550c-7f1f-c0a2-3b77-85df1e2ab540
+  name: Class Slides
+  pageRef: /pages/class-slides
+  weight: 70
